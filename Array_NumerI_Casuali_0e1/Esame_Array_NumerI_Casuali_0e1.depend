@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722102285 source:c:\prova programmi c\programmi c++\esame_array_numeri_casuali_0e1\main.cpp
+	<iostream>
+	<ctime>
+

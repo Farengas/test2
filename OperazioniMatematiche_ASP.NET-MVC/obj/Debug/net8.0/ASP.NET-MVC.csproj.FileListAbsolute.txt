@@ -1,0 +1,120 @@
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cache
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cs
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.staticwebassets.runtime.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.exe
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.deps.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.runtimeconfig.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.dll
+C:\Users\Utente\source\repos\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.pdb
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-MVC.props
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-MVC.props
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-MVC.props
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-MVC.styles.css
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-MVC.bundle.scp.css
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.dll
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\refint\ASP.NET-MVC.dll
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.pdb
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.genruntimeconfig.cache
+C:\Users\Utente\source\repos\ASP.NET-MVC\obj\Debug\net8.0\ref\ASP.NET-MVC.dll
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\appsettings.Development.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\appsettings.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.staticwebassets.runtime.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.exe
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.deps.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.runtimeconfig.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.dll
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.pdb
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfoInputs.cache
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfo.cs
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.csproj.CoreCompileInputs.cache
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cache
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cs
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.build.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.development.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-MVC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-MVC.props
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-MVC.props
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-MVC.props
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-MVC.styles.css
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-MVC.bundle.scp.css
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.dll
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\refint\ASP.NET-MVC.dll
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.pdb
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.genruntimeconfig.cache
+F:\Downloads\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ref\ASP.NET-MVC.dll
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.staticwebassets.runtime.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.exe
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.deps.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.runtimeconfig.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.dll
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.pdb
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfo.cs
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cache
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cs
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-MVC.props
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-MVC.props
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-MVC.props
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-MVC.styles.css
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-MVC.bundle.scp.css
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.dll
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\refint\ASP.NET-MVC.dll
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.pdb
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.genruntimeconfig.cache
+C:\Users\utente\Desktop\Esercitazioneroyal\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ref\ASP.NET-MVC.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.staticwebassets.runtime.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.exe
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.deps.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.runtimeconfig.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\bin\Debug\net8.0\ASP.NET-MVC.pdb
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.AssemblyInfo.cs
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.RazorAssemblyInfo.cs
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET-MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET-MVC.props
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET-MVC.props
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET-MVC.props
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\bundle\ASP.NET-MVC.styles.css
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET-MVC.bundle.scp.css
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\refint\ASP.NET-MVC.dll
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.pdb
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ASP.NET-MVC.genruntimeconfig.cache
+C:\Users\david\Desktop\CefiAggiornati\esercizi esame\esercizio c#\ASP.NET-MVC\obj\Debug\net8.0\ref\ASP.NET-MVC.dll

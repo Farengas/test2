@@ -1,0 +1,25 @@
+﻿@model ASP.NET_MVC.Models.OperazioneMatematicaVM
+
+@{
+    ViewData["Title"] = "Parser Matematico";
+}
+
+<h2 class="d-flex justify-content-center">Parser Matematico</h2>
+
+<form asp-action="Valuta" method="post">
+    <div class="d-grid justify-content-center m-2 p-3 border border-2 border-primary">
+        <label class="text-body" for="input">Inserisci un'espressione matematica:</label><br />
+        <input class="text-body form-control" type="text" name="input" id="input" asp-for="Input" /><br />
+        <button class="btn btn-outline-primary " type="submit">Valuta</button>
+    </div>
+</form>
+
+@if (Model.Risultato != null)
+{
+    <h4 class="text-success d-flex justify-content-center">Risultato: @Model.Risultato</h4>
+}
+
+@if (Model.Errore != null)
+{
+    <h4 class="text-danger d-flex justify-content-center">Errore: @Model.Errore</h4>
+}
